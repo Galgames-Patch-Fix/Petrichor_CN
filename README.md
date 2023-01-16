@@ -1,5 +1,9 @@
 # Petrichor_CN
 屋子补丁破解
+
+ペトリコール -Petrichor-  
+雨后泥土的气息 -Petrichor-  
+
 # 用法
 你有两种可选  
 第一种是直接下载 petrichor_cn.exe 放到游戏目录下运行即可  
