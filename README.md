@@ -18,3 +18,7 @@
 # 注意
 这个补丁仅仅面向非大陆地区  
 如果你在大陆地区传播该补丁出问题你自己担着。  
+
+![t0](https://github.com/Galgames-Patch-Fix/Petrichor_CN/blob/main/testImage/t0.png)  
+![t1](https://github.com/Galgames-Patch-Fix/Petrichor_CN/blob/main/testImage/t1.png)  
+![t2](https://github.com/Galgames-Patch-Fix/Petrichor_CN/blob/main/testImage/t2.png)  
